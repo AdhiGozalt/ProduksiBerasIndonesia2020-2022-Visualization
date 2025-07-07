@@ -18,3 +18,4 @@ Data ini diambil dari Badan Pusat Statistik Indonesia (https://www.bps.go.id/) u
 
 
 ![](https://github.com/AdhiGozalt/ProduksiBerasIndonesia2020-2022-Visualization/blob/master/Jumlah%20Beras%20(Ton)%20setiap%20provinsi.png)
+![](https://github.com/AdhiGozalt/ProduksiBerasIndonesia2020-2022-Visualization/blob/master/Intensitas%20Produksi%20Beras%20di%20Indonesia%20per%20Tahun.png)
